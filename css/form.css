@@ -1,0 +1,48 @@
+body{
+  background-color:  skyblue;
+  text-align: center;
+}
+.main{
+  display: flex;
+  margin:2%;
+  padding: 1%;
+  width: 95%;
+}
+.main section{
+  width: 95%;
+  border: 2px solid green;
+  border-radius: 20px;
+  margin: 1%;
+}
+section{
+  background-color: #7B68EE;
+  text-align: center;
+  border-radius: 15px;
+}
+input,select{
+  width: 90%;
+  margin: 1%;
+  padding: 1%;
+  display: block;
+  border: 1px solid red;
+  border-radius: 20px;
+}
+#career{
+  width:95%;
+  margin: 1%;
+  padding: 2%;
+  display: block;
+}
+.parent{
+  text-align: center;
+}
+
+button{
+  width: 25%;
+  background-color: pink;
+  color: red;
+  margin: 1%;
+  padding:1%;
+  font-size: 20px;
+  font-weight: bold;
+}

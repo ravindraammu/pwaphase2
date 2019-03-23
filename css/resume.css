@@ -1,0 +1,47 @@
+.main{
+    justify-content:center;
+    display: flex;
+    background-color: blue;
+}
+img{
+  width: 20%;
+  height: 20%;
+  margin: 2%;
+}
+header{
+  background-color: yellow;
+  color: grey;
+  text-align: center;
+  margin: 1%;
+  padding: 1%;
+  font-size: 25px;
+  font-weight: 600;
+  border: 2px solid black;
+  box-shadow: 2px  5px green;
+  border-radius: 25px;
+}
+.right{
+
+    border: 2px solid green;
+    background-color: skyblue;
+    text-align:left;
+    justify-content: center;
+    width: 60%;
+    padding: 2% ;
+    margin: 5%;
+    border-radius: 5%
+  }
+  .left{
+    border: 2px solid green;
+    background-color: skyblue;
+    text-align:center;
+    width: 30%;
+    border-radius: 10%;
+    margin:2%;
+
+  }
+
+  table{
+    border: 2px solid red;
+    width: 100%;
+  }
